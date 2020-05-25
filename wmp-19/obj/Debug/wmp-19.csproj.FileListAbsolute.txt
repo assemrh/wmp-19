@@ -1,0 +1,17 @@
+C:\Users\asra\source\repos\wmp-19\wmp-19\bin\Debug\wmp-19.exe.config
+C:\Users\asra\source\repos\wmp-19\wmp-19\bin\Debug\wmp-19.exe
+C:\Users\asra\source\repos\wmp-19\wmp-19\bin\Debug\wmp-19.pdb
+C:\Users\asra\source\repos\wmp-19\wmp-19\bin\Debug\Interop.WMPLib.dll
+C:\Users\asra\source\repos\wmp-19\wmp-19\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.csprojAssemblyReference.cache
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\Interop.WMPLib.dll
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.csproj.ResolveComReference.cache
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp_19.Properties.Resources.resources
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.csproj.GenerateResource.cache
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.csproj.CoreCompileInputs.cache
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.exe
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp-19.pdb
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp_19.AsraMP.resources
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp_19.AboutBoxForm.resources
+C:\Users\asra\source\repos\wmp-19\wmp-19\obj\Debug\wmp_19.OptionsForm.resources
